@@ -2,7 +2,7 @@ export default function SectionFour() {
   return (
     <>
       <div className="flex mb-10 flex-col p-24 bg-slate-800 justify-center space-y-10">
-        <h2 className="text-5xl text-white font-bold text-center tracking-tight">
+        <h2 className="text-5xl max-w-lg m-auto text-white font-bold text-center tracking-tight">
           {" "}
           Jualan Online Jadi Mudah, Tanpa Susah
         </h2>

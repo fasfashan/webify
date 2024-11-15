@@ -2,7 +2,7 @@ export default function SectionThree() {
   return (
     <>
       <div className="flex  flex-col p-20 bg-amber-50 justify-center space-y-10">
-        <h2 className="text-5xl font-bold text-center tracking-tight">
+        <h2 className="text-5xl max-w-lg m-auto font-bold text-center tracking-tight">
           {" "}
           Jangkau Lebih Luas dengan Bebas
         </h2>
