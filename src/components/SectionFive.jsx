@@ -2,7 +2,7 @@ import ButtonPrimary from "./ButtonPrimary";
 import { ChevronRightIcon } from "@radix-ui/react-icons";
 export default function SectionFive() {
   return (
-    <div className="flex mb-40 max-w-6xl m-auto flex-col pt-20  justify-center space-y-10">
+    <div className="flex  max-w-6xl m-auto flex-col mt-28  justify-center space-y-10">
       <div className="space-y-4">
         <p className="text-lg text-purple-600 font-medium text-center">
           Perluas Pasar, Jangkau Lebih Banyak Pembeli, dan

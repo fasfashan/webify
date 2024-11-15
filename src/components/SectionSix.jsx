@@ -1,6 +1,6 @@
 export default function SectionSix() {
   return (
-    <div className="flex mb-40 max-w-6xl m-auto flex-col  justify-center space-y-10">
+    <div className="flex mt-28 mb-40 max-w-6xl m-auto flex-col  justify-center space-y-10">
       <div className="space-y-4">
         <h2 className="text-5xl max-w-2xl m-auto font-bold text-center tracking-tight">
           Ingin Duduk Manis tapi Jualan Online Makin Laris?
