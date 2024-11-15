@@ -18,14 +18,22 @@ export default function SectionTwo() {
               Langkah 1
             </p>
             <h3 className="text-xl font-semibold">Pilih jenis bisnismu</h3>
-            <img src="/BarChart.svg" alt="" />
+            <img
+              className="hover:scale-95 transition-all"
+              src="/BarChart.svg"
+              alt=""
+            />
           </div>
           <div className="flex space-y-4 flex-col p-10 bg-neutral-100 rounded-md border border-neutral-200 col-span-4 ">
             <p className="p-1 w-fit bg-purple-50 border border-purple-600 text-purple-600 text-sm font-semibold rounded-md">
               Langkah 2
             </p>
             <h3 className="text-xl font-semibold">Pilih jenis bisnismu</h3>
-            <img src="/account.svg" alt="" />
+            <img
+              className="hover:scale-95 transition-all"
+              src="/account.svg"
+              alt=""
+            />
           </div>
           <div className="flex space-y-4 flex-col p-10 bg-neutral-100 rounded-md border border-neutral-200 col-span-4 ">
             <p className="p-1 w-fit bg-purple-50 border border-purple-600 text-purple-600 text-sm font-semibold rounded-md">
@@ -34,14 +42,22 @@ export default function SectionTwo() {
             <h3 className="text-xl font-semibold">
               Jelajahi dan gunakan beragam template yang tersedia
             </h3>
-            <img src="/deposit.svg" alt="" />
+            <img
+              className="hover:scale-95 transition-all"
+              src="/deposit.svg"
+              alt=""
+            />
           </div>
           <div className="flex space-y-4 flex-col p-10 bg-neutral-100 rounded-md border border-neutral-200 col-span-8 ">
             <p className="p-1 w-fit bg-purple-50 border border-purple-600 text-purple-600 text-sm font-semibold rounded-md">
               Langkah 4
             </p>
             <h3 className="text-xl font-semibold">Tentukan isi websitemu</h3>
-            <img src="/card.svg" alt="" />
+            <img
+              className="hover:scale-95 transition-all"
+              src="/card.svg"
+              alt=""
+            />
           </div>
           <div className="flex space-y-4 flex-col p-10 bg-neutral-100 rounded-md border border-neutral-200 col-span-4 ">
             <p className="p-1 w-fit bg-purple-50 border border-purple-600 text-purple-600 text-sm font-semibold rounded-md">
@@ -50,7 +66,11 @@ export default function SectionTwo() {
             <h3 className="text-xl font-semibold">
               Selamat! Produkmu sudah tampil dan bisa dibeli via website
             </h3>
-            <img src="/account.svg" alt="" />
+            <img
+              className="hover:scale-95 transition-all"
+              src="/account.svg"
+              alt=""
+            />
           </div>
         </div>
         <div className="flex justify-center m-auto">

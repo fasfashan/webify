@@ -1,7 +1,7 @@
 export default function SectionOne() {
   return (
     <>
-      <div className="flex flex-col pt-20 bg-amber-50 justify-center space-y-10">
+      <div className="flex flex-col pt-20 overflow-y-hidden bg-amber-50 justify-center space-y-10">
         <div className="space-y-4">
           <h2 className="text-5xl font-bold text-center tracking-tight">
             {" "}
@@ -13,7 +13,7 @@ export default function SectionOne() {
           </p>
         </div>
         <img
-          className="w-1/2 m-auto flex justify-center"
+          className="max-w-2xl hover:scale-105 transition-all m-auto flex justify-center"
           src="/GoogleSearch.png"
           alt="Google Search"
         />
