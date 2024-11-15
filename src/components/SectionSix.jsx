@@ -1,5 +1,3 @@
-import ButtonPrimary from "./ButtonPrimary";
-import { ChevronRightIcon } from "@radix-ui/react-icons";
 export default function SectionSix() {
   return (
     <div className="flex mb-40 max-w-6xl m-auto flex-col  justify-center space-y-10">
