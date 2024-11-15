@@ -7,10 +7,11 @@ import SectionThree from "./components/SectionThree";
 import SectionFour from "./components/SectionFour";
 import SectionFive from "./components/SectionFive";
 import SectionSix from "./components/SectionSix";
+import SectionSeven from "./components/SectionSeven";
 function App() {
   return (
     <>
-      <div className="max-w-6xl m-auto">
+      <div className="max-w-6xl m-auto ">
         <Header />
         <HeroSection />
       </div>
@@ -20,6 +21,7 @@ function App() {
       <SectionFour />
       <SectionFive />
       <SectionSix />
+      <SectionSeven />
     </>
   );
 }
